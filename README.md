@@ -5,7 +5,7 @@ I'm Marcell 🧑🏻‍💻 and I enjoy working with everything that has to do w
 Currently I'm working with **Typescript** and **Go** along with cloud native goodies such as **Docker**, **Kubernetes** and **AWS**. 
 Although now I'm leaning more towards the backend and even infrastucture side of the spectrum, in my previous roles I also became proficient in **React** and **Java**, during which time I primarily focused on the frontend. 
 
-Have a look at some of my pinned side-projects / open-source contributions and hit me if you want to get in contact :)
+Have a look at some of my pinned side-projects / open-source contributions and hit me up if you want to get in contact :)
 
 <!--
 **maindotmarcell/maindotmarcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
