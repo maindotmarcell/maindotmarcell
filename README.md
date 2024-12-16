@@ -2,7 +2,7 @@
 
 I'm Marcell 🧑🏻‍💻 and I enjoy working with everything that has to do with **distributed systems** 🛜, **blockchain** ⛓️, **observability** 🔭, **security** 🔐 and **fintech** 💸.
 
-Currently I'm working with **Typescript** and **Go** along with cloud native goodies such as **Docker**, **Kubernetes** and **AWS**. 
+Currently, I'm working with **Typescript** and **Go** along with cloud native goodies such as **Docker**, **Kubernetes** and **AWS**. 
 Although now I'm leaning more towards the backend and even infrastucture side of the spectrum, in my previous roles I also became proficient in **React** and **Java**, during which time I primarily focused on the frontend. 
 
 Have a look at some of my pinned side-projects / open-source contributions and hit me up if you want to get in contact :)
