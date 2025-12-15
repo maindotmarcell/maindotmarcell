@@ -2,8 +2,6 @@
 
 I'm Marcell 🧑🏻‍💻 and I enjoy working with everything that has to do with **distributed systems** 🛜, **blockchain** ⛓️, **observability** 🔭, **security** 🔐 and **fintech** 💸.
 
-Have a look at some of my pinned side-projects / open-source contributions and hit me up if you want to get in contact :)
-
 <!--
 **maindotmarcell/maindotmarcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
