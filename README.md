@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Marcell 🧑🏻‍💻 and I enjoy working with everything that has to do with **distributed systems** 🛜, **blockchain** ⛓️, **observability** 🔭, **security** 🔐 and **fintech** 💸.
+I'm Marcell 🧑🏻‍💻 and I enjoy working with everything that has to do with **distributed systems** 🛜, **blockchain** ⛓️, **security** 🔐, **observability** 🔭 and **fintech** 💸.
 
 <!--
 **maindotmarcell/maindotmarcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
